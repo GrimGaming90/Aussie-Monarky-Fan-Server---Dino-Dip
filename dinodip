@@ -1,37 +1,16 @@
 {
-	"DinoDipConfig": {
-		"alwaysallowtaming": [
-			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
-			"/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
-			"/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
-			"/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
-			"/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
-			"/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
-			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
-			"/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-			"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Bow_Female_BP.ZKs_Bow_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Bow_Man_BP.ZKs_Bow_Man_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Hatchet_Female_BP.ZKs_Hatchet_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Hatchet_Man_BP.ZKs_Hatchet_Man_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Punch_Female_BP.ZKs_Punch_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Punch_Man_BP.ZKs_Punch_Man_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Spear_Female_BP.ZKs_Spear_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Spear_Man_BP.ZKs_Spear_Man_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Sword_Female_BP.ZKs_Sword_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Sword_Man_BP.ZKs_Sword_Man_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Bola_Female_BP.ZKs_Bola_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Bola_Man_BP.ZKs_Bola_Man_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Club_Female_BP.ZKs_Club_Female_BP_C",
-			"/Game/Mods/Human_NPCs/People/ZKs_Club_Man_BP.ZKs_Club_Man_BP_C"
-		],
+"DinoDipConfig": {
+	"alwaysallowtaming": [
+		"/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+		"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+		"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+		"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
+		"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+		"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+		"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+		"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+		"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C"
+	],
 		"weeksarrays": [
 			{
 				"weekforoptions": [

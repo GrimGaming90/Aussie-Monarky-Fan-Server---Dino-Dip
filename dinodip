@@ -1,12 +1,21 @@
 {
-"DinoDipConfig": {
-	"alwaysallowtaming": [
-		"/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-		"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-		"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
-		"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
-		"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C"
-	],
+  "DinoDipConfig": {
+    "alwaysallowtaming": [
+      "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
+      "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
+      "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
+      "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
+      "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
+      "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
+      "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
+      "Blueprint'/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring'",
+      "Blueprint'/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer'",
+      "Blueprint'/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn'",
+      "Blueprint'/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter'",
+      "Blueprint'/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP'",
+      "Blueprint'/Game/PrimalEarth/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C'",
+      "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C"
+    ],
 		"weeksarrays": [
 			{
 				"weekforoptions": [

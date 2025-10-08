@@ -108,7 +108,7 @@
           {"dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C", "chancetodrop": 0.7},
           {"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C", "chancetodrop": 0.7}
         ],
-        "dipstogive": 5
+        "dipstogive": 3
       },
       {
         "weekforoptions": [

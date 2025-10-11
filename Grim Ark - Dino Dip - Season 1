@@ -35,7 +35,6 @@
           {"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C", "chancetodrop": 0.8},
           {"dino": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C", "chancetodrop": 0.9},
           {"dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C", "chancetodrop": 0.9},
-          {"dino": "/Game/PrimalEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C", "chancetodrop": 0.9},
           {"dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C", "chancetodrop": 0.9},
           {"dino": "/Game/PrimalEarth/Dinos/Unicorn/Unicorn_Character_BP.Unicorn_Character_BP_C", "chancetodrop": 0.7},
           {"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C", "chancetodrop": 0.9},

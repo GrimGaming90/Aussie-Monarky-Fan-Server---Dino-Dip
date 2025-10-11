@@ -57,7 +57,7 @@
           {"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C", "chancetodrop": 0.7},
           {"dino": "/Game/PrimalEarth/Dinos/Gigantopithecus/Gigantopithecus_Character_BP.Gigantopithecus_Character_BP_C", "chancetodrop": 0.7},
           {"dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C", "chancetodrop": 0.5},
-          {"dino": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C", "chancetodrop": 0.7},
+          {"dino": "/PA_Ascension/Dinos/PaleoPurlovia/Paleo_Purlovia_Character_BP.Paleo_Purlovia_Character_BP_C", "chancetodrop": 0.7},
           {"dino": "/Game/PrimalEarth/Dinos/Pteranodon/Pteranodon_Character_BP.Pteranodon_Character_BP_C", "chancetodrop": 0.5},
           {"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pelagornis_Character_BP.Pelagornis_Character_BP_C", "chancetodrop": 0.6},
           {"dino": "/Game/PrimalEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C", "chancetodrop": 0.5},

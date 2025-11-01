@@ -112,13 +112,9 @@
       {
         "weekforoptions": [
           {"dino": "/PA_Ascension/Dinos/PaleoYutyrannus/Paleo_Yutyrannus_Character_BP.Paleo_Yutyrannus_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/PA_Ascension/Dinos/PaleoCarcha/Paleo_Carcha_Character_BP.Paleo_Carcha_Character_BP_C", "chancetodrop": 0.25},
           {"dino": "/PA_Ascension/Dinos/PaleoFasola/Paleo_Fasola_Character_BP.Paleo_Fasola_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/PA_Ascension/Dinos/PaleoGigantoraptor/Paleo_Gigantoraptor_Character_BP.Paleo_Gigantoraptor_Character_BP_C", "chancetodrop": 0.2},
-          {"dino": "/PA_Ascension/Dinos/PaleoMegalosaur/Paleo_Megalosaurus_Character_BP.Paleo_Megalosaurus_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/PA_Ascension/Dinos/PaleoPurlovia/Paleo_Purlovia_Character_BP.Paleo_Purlovia_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/PA_Ascension/Dinos/PaleoSpino/Paleo_Spino_Character_BP.Paleo_Spino_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/PA_Ascension/Dinos/PaleoThyla/Paleo_Thylacoleo_Character_BP.Paleo_Thylacoleo_Character_BP_C", "chancetodrop": 0.25},
           {"dino": "/PA_Ascension/Dinos/PaleoDeinosuchus/Paleo_DeinosuchusASA_Character_BP.Paleo_DeinosuchusASA_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/PA_Ascension/Dinos/PaleoDeinotherium/Paleo_DeinotheriumASA_Character_BP.Paleo_DeinotheriumASA_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C", "chancetodrop": 0.3},
@@ -134,13 +130,12 @@
       },
       {
         "weekforoptions": [
-          {"dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosasaurus_Character_BP.Mosasaurus_Character_BP_C", "chancetodrop": 1},
           {"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C", "chancetodrop": 1},
           {"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C", "chancetodrop": 1},
           {"dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C", "chancetodrop": 1}
+          {"dino": "/PA_Ascension/Dinos/PaleoCarcha/Paleo_Carcha_Character_BP.Paleo_Carcha_Character_BP_C", "chancetodrop": 1},
         ],
-        "dipstogive": 5
+        "dipstogive": 1
       }
     ]
   }

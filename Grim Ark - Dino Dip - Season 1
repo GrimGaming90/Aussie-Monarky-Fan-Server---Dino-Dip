@@ -132,7 +132,7 @@
         "weekforoptions": [
           {"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C", "chancetodrop": 1},
           {"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C", "chancetodrop": 1}
+          {"dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C", "chancetodrop": 1},
           {"dino": "/PA_Ascension/Dinos/PaleoCarcha/Paleo_Carcha_Character_BP.Paleo_Carcha_Character_BP_C", "chancetodrop": 1},
         ],
         "dipstogive": 1

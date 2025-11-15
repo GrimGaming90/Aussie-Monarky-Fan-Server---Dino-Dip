@@ -111,22 +111,16 @@
       },
       {
         "weekforoptions": [
-          {"dino": "/PA_Ascension/Dinos/PaleoYutyrannus/Paleo_Yutyrannus_Character_BP.Paleo_Yutyrannus_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/PA_Ascension/Dinos/PaleoFasola/Paleo_Fasola_Character_BP.Paleo_Fasola_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/PA_Ascension/Dinos/PaleoGigantoraptor/Paleo_Gigantoraptor_Character_BP.Paleo_Gigantoraptor_Character_BP_C", "chancetodrop": 0.2},
+          {"dino": "/PA_Ascension/Dinos/GreaterYuty/Paleo_Yutyrannus_Character_BP.Paleo_Yutyrannus_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/PA_Ascension/Dinos/PaleoSpino/Paleo_Spino_Character_BP.Paleo_Spino_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/PA_Ascension/Dinos/PaleoDeinosuchus/Paleo_DeinosuchusASA_Character_BP.Paleo_DeinosuchusASA_Character_BP_C", "chancetodrop": 0.3},
           {"dino": "/PA_Ascension/Dinos/PaleoDeinotherium/Paleo_DeinotheriumASA_Character_BP.Paleo_DeinotheriumASA_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C", "chancetodrop": 0.3},
-          {"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalicotherium_Character_BP.Chalicotherium_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Paleo/EVO_Paleo_Giga_Character_BP.EVO_Paleo_Giga_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C", "chancetodrop": 1},
-          {"dino": "/Game/Mods/EVOPlus/Creatures/Basilosaurus/Basilosaurus_Character_BP_EVO.Basilosaurus_Character_BP_EVO_C", "chancetodrop": 1},
-          {"dino": "/Game/PrimalEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C", "chancetodrop": 1}
+          {"dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP_C", "chancetodrop": 0.3},
+          {"dino": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C", "chancetodrop": 0.3},
+          {"dino": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP", "chancetodrop": 0.3},
+          {"dino": "/Game/PrimalEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C", "chancetodrop": 0.3}
         ],
-        "dipstogive": 5
+        "dipstogive": 3
       },
       {
         "weekforoptions": [
